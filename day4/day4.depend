@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1603794695 source:c:\users\å\downloads\documents\cprograms\day4\main.c
+	<stdio.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdlib.h>
+	<windows.h>
+	<dos.h>
+	<dir.h>
+
